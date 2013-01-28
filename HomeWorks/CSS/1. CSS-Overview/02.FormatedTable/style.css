@@ -1,0 +1,36 @@
+table {
+	margin: 0;
+	border-spacing: 0;
+}
+
+thead tr {
+	background-color: #59BD06;
+	background: -webkit-linear-gradient(top, #5EC306, #4BAF03);
+	color: white;
+	text-align: left;
+	border-bottom: thick #2A2A2A;
+	border-right: 1px solid white;
+}
+
+tr:nth-child(2n) {
+	background-color: #ECECD8;
+	border-right: 1px solid #ECECD8;
+}
+
+.names {
+	width: 150px;
+}
+
+td {
+	width: 100px;
+	border-right: 1px solid #666;
+}
+
+th { 
+	border-right: 2px ridge #6EC429;
+	border-bottom: 1px solid #3D8F0E;
+}
+
+.checkbox {
+	background: #D4D0C8;
+}

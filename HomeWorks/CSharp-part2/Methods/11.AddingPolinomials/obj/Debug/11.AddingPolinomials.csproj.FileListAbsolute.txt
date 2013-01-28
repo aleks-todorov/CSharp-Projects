@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\11.AddingPolinomials\bin\Debug\11.AddingPolinomials.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\11.AddingPolinomials\bin\Debug\11.AddingPolinomials.exe
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\11.AddingPolinomials\bin\Debug\11.AddingPolinomials.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\11.AddingPolinomials\obj\Debug\11.AddingPolinomials.exe
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\11.AddingPolinomials\obj\Debug\11.AddingPolinomials.pdb

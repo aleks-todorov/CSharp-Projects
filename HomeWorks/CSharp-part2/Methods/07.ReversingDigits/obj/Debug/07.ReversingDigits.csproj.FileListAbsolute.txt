@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\07.ReversingDigits\bin\Debug\07.ReversingDigits.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\07.ReversingDigits\bin\Debug\07.ReversingDigits.exe
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\07.ReversingDigits\bin\Debug\07.ReversingDigits.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\07.ReversingDigits\obj\Debug\07.ReversingDigits.exe
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\07.ReversingDigits\obj\Debug\07.ReversingDigits.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\07.ReversingDigits\obj\Debug\07.ReversingDigits.csprojResolveAssemblyReference.cache

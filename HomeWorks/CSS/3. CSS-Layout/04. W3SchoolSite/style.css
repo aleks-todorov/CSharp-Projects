@@ -1,0 +1,163 @@
+/**CSS file**/
+
+html, body{
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+div, p, a, img, li, ul, h1, h2{
+	margin: 0;
+	padding: 0;
+}
+	
+body{
+	background-color: #f1f1f1;
+	font-size: 12px;
+	font-family: Verdana, sans-serif;
+}
+
+/**Wrapper**/
+
+.wrapper{
+	height: 630px;
+	width: 780px;
+	margin: 10px auto;
+	border: 1px solid #000;
+}
+
+/**Content**/
+
+.content{
+	float: left;
+	width: 476px;
+	height: 586px;
+	background-color: #fff;
+	border: 2px solid #a0a0a0;
+	margin-top: 2px;
+	
+}
+.content:after{
+	content: "";
+	display: block;
+	clear: both;
+	height: 0;
+}
+
+.content h1{
+	margin-top: 20px;
+	margin-left: 5px;
+}
+
+.content .prev-btn{
+	width: 95px;
+	height: 20px;
+	border: 1px solid #292929;
+	display: inline-block;
+	text-align: center;
+	line-height: 20px;
+	margin-left: 5px;
+	margin-top: 15px;
+}
+
+.content .prev-btn img{
+	float: left;
+	margin-top: 8px;
+	margin-left: 5px;
+	
+}
+.content .next-btn{
+	width: 95px;
+	height: 20px;
+	border: 1px solid #292929;
+	display: inline-block;
+	text-align: center;
+	line-height: 20px;
+	margin-top: 15px;
+}
+
+.content .next-btn img{
+	float: right;
+	margin-top: 8px;
+	margin-right: 5px;
+}
+
+.topics{
+	color: #fff;
+	background-color: #808080;
+	border: 1px solid #afafaf;
+}
+.content .topics{
+	width: 465px;
+	margin-left: 5px;
+	
+}
+/**Left Navigation**/
+
+.left-navi{
+	float: left;
+	width: 140px;
+	
+}
+.left-navi:after{
+	content: "";
+	display: block;
+	clear: both;
+	height: 0;
+}
+
+.left-navi img{
+	 float: left;
+	 margin-top: 14px;
+	margin-right: 5px;
+}
+
+.left-navi img:after{
+	content: "";
+	display: block;
+	clear: both;
+	height: 0;
+}
+
+.left-navi h2{
+	margin-top: 14px;
+	font-size: 14px;
+}
+	
+.left-navi  li{
+	display: block;
+	margin-left: 2px;
+}
+
+.left-navi  li:hover{
+	text-decoration: underline;
+}
+
+.left-navi  a{
+	text-decoration: none;
+	color: #3d3d3d;
+	text-shadow: 1px 1px #fff;
+}
+
+.left-navi .courses{
+	margin-top: 15px;
+}
+
+.left-navi .courses a{
+	color: #992321;
+	font-weight: bold;
+}
+
+/**Right Navigation**/
+
+.right-panel{
+	float: right;
+	width: 140px;
+	
+}
+.right-panel:after{
+	content: "";
+	display: block;
+	clear: both;
+	height: 0;
+}

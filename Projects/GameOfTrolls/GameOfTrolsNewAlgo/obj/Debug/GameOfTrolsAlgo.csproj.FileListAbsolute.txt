@@ -1,0 +1,24 @@
+C:\Users\todorale\Google Drive\HomeWorks\C#\Projects\GameOfTrolls\GameOfTrolsNewAlgo\bin\Debug\GameOfTrolsNewAlgo.exe.config
+C:\Users\todorale\Google Drive\HomeWorks\C#\Projects\GameOfTrolls\GameOfTrolsNewAlgo\bin\Debug\GameOfTrolsNewAlgo.exe
+C:\Users\todorale\Google Drive\HomeWorks\C#\Projects\GameOfTrolls\GameOfTrolsNewAlgo\bin\Debug\GameOfTrolsNewAlgo.pdb
+C:\Users\todorale\Google Drive\HomeWorks\C#\Projects\GameOfTrolls\GameOfTrolsNewAlgo\obj\Debug\GameOfTrolsAlgo.csprojResolveAssemblyReference.cache
+C:\Users\todorale\Google Drive\HomeWorks\C#\Projects\GameOfTrolls\GameOfTrolsNewAlgo\obj\Debug\GameOfTrolsNewAlgo.exe
+C:\Users\todorale\Google Drive\HomeWorks\C#\Projects\GameOfTrolls\GameOfTrolsNewAlgo\obj\Debug\GameOfTrolsNewAlgo.pdb
+D:\Google Drive\HomeWorks\C#\Projects\GameOfTrolls\GameOfTrolsNewAlgo\bin\Debug\GameOfTrolsNewAlgo.exe.config
+D:\Google Drive\HomeWorks\C#\Projects\GameOfTrolls\GameOfTrolsNewAlgo\obj\Debug\GameOfTrolsNewAlgo.exe
+D:\Google Drive\HomeWorks\C#\Projects\GameOfTrolls\GameOfTrolsNewAlgo\obj\Debug\GameOfTrolsNewAlgo.pdb
+D:\Google Drive\HomeWorks\C#\Projects\GameOfTrolls\GameOfTrolsNewAlgo\bin\Debug\GameOfTrolsNewAlgo.exe
+D:\Google Drive\HomeWorks\C#\Projects\GameOfTrolls\GameOfTrolsNewAlgo\bin\Debug\GameOfTrolsNewAlgo.pdb
+D:\Google Drive\HomeWorks\C#\Projects\GameOfTrolls\GameOfTrolsNewAlgo\obj\Debug\GameOfTrolsAlgo.csprojResolveAssemblyReference.cache
+C:\Users\todorale\Google Drive\HomeWorks\C#\Projects\GameOfTrolls - Copy\GameOfTrolsNewAlgo\bin\Debug\GameOfTrolsNewAlgo.exe.config
+C:\Users\todorale\Google Drive\HomeWorks\C#\Projects\GameOfTrolls - Copy\GameOfTrolsNewAlgo\obj\Debug\GameOfTrolsNewAlgo.exe
+C:\Users\todorale\Google Drive\HomeWorks\C#\Projects\GameOfTrolls - Copy\GameOfTrolsNewAlgo\obj\Debug\GameOfTrolsNewAlgo.pdb
+C:\Users\todorale\Google Drive\HomeWorks\C#\Projects\GameOfTrolls - Copy\GameOfTrolsNewAlgo\bin\Debug\GameOfTrolsNewAlgo.exe
+C:\Users\todorale\Google Drive\HomeWorks\C#\Projects\GameOfTrolls - Copy\GameOfTrolsNewAlgo\bin\Debug\GameOfTrolsNewAlgo.pdb
+C:\Users\todorale\Google Drive\HomeWorks\C#\Projects\GameOfTrolls - Copy\GameOfTrolsNewAlgo\obj\Debug\GameOfTrolsAlgo.csprojResolveAssemblyReference.cache
+D:\Google Drive\Projects\PC Magazine\01 - GameOfTrolls\GameOfTrolls - Copy\GameOfTrolsNewAlgo\bin\Debug\GameOfTrolsNewAlgo.exe.config
+D:\Google Drive\Projects\PC Magazine\01 - GameOfTrolls\GameOfTrolls - Copy\GameOfTrolsNewAlgo\obj\Debug\GameOfTrolsNewAlgo.exe
+D:\Google Drive\Projects\PC Magazine\01 - GameOfTrolls\GameOfTrolls - Copy\GameOfTrolsNewAlgo\obj\Debug\GameOfTrolsNewAlgo.pdb
+D:\Git\Projects\GameOfTrolls\GameOfTrolsNewAlgo\bin\Debug\GameOfTrolsNewAlgo.exe.config
+D:\Git\Projects\GameOfTrolls\GameOfTrolsNewAlgo\obj\Debug\GameOfTrolsNewAlgo.exe
+D:\Git\Projects\GameOfTrolls\GameOfTrolsNewAlgo\obj\Debug\GameOfTrolsNewAlgo.pdb

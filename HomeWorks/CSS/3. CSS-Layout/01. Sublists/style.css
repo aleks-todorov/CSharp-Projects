@@ -1,0 +1,26 @@
+/**CSS file**/
+
+ul{
+	list-style-type: none;
+	display: block;
+}
+
+.list ul ul{
+	display: none;
+}
+
+.list ul li:hover{
+	text-decoration: underline;
+}
+
+.list ul li:hover>ul{
+	display: block;
+	color: #AEA19C;	
+	text-decoration: none;
+}
+
+.list ul li>ul li{
+	text-decoration: none;
+}
+
+

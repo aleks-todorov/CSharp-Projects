@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\03. ReturningLastDigitName\bin\Debug\_03.ReturningLastDigitName.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\03. ReturningLastDigitName\bin\Debug\_03.ReturningLastDigitName.exe
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\03. ReturningLastDigitName\bin\Debug\_03.ReturningLastDigitName.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\03. ReturningLastDigitName\obj\Debug\_03.ReturningLastDigitName.exe
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\03. ReturningLastDigitName\obj\Debug\_03.ReturningLastDigitName.pdb

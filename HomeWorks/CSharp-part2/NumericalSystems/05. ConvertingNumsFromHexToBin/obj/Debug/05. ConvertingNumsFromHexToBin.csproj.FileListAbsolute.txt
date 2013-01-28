@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\05. ConvertingNumsFromHexToBin\bin\Debug\_05.ConvertingNumsFromHexToBin.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\05. ConvertingNumsFromHexToBin\obj\Debug\05. ConvertingNumsFromHexToBin.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\05. ConvertingNumsFromHexToBin\bin\Debug\_05.ConvertingNumsFromHexToBin.exe
+D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\05. ConvertingNumsFromHexToBin\bin\Debug\_05.ConvertingNumsFromHexToBin.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\05. ConvertingNumsFromHexToBin\obj\Debug\_05.ConvertingNumsFromHexToBin.exe
+D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\05. ConvertingNumsFromHexToBin\obj\Debug\_05.ConvertingNumsFromHexToBin.pdb

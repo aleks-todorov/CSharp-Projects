@@ -1,0 +1,8 @@
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\06. FindingFirstBiggerElementInArray\bin\Debug\_06.FindingFirstBiggerElementInArray.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\06. FindingFirstBiggerElementInArray\obj\Debug\06. FindingFirstBiggerElementInArray.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\06. FindingFirstBiggerElementInArray\bin\Debug\_06.FindingFirstBiggerElementInArray.exe
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\06. FindingFirstBiggerElementInArray\bin\Debug\_06.FindingFirstBiggerElementInArray.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\06. FindingFirstBiggerElementInArray\bin\Debug\06.CheckingDifferenceBetweenArrayElements.exe
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\06. FindingFirstBiggerElementInArray\bin\Debug\06.CheckingDifferenceBetweenArrayElements.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\06. FindingFirstBiggerElementInArray\obj\Debug\_06.FindingFirstBiggerElementInArray.exe
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\06. FindingFirstBiggerElementInArray\obj\Debug\_06.FindingFirstBiggerElementInArray.pdb

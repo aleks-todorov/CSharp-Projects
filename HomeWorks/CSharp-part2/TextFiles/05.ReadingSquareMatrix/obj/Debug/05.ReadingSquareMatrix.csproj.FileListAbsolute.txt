@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\05.ReadingSquareMatrix\bin\Debug\05.ReadingSquareMatrix.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\05.ReadingSquareMatrix\obj\Debug\05.ReadingSquareMatrix.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\05.ReadingSquareMatrix\bin\Debug\05.ReadingSquareMatrix.exe
+D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\05.ReadingSquareMatrix\bin\Debug\05.ReadingSquareMatrix.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\05.ReadingSquareMatrix\obj\Debug\05.ReadingSquareMatrix.exe
+D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\05.ReadingSquareMatrix\obj\Debug\05.ReadingSquareMatrix.pdb

@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\06.ConvertNumsFromBinToHex\bin\Debug\06.ConvertNumsFromBinToHex.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\06.ConvertNumsFromBinToHex\bin\Debug\06.ConvertNumsFromBinToHex.exe
+D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\06.ConvertNumsFromBinToHex\bin\Debug\06.ConvertNumsFromBinToHex.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\06.ConvertNumsFromBinToHex\obj\Debug\06.ConvertNumsFromBinToHex.exe
+D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\06.ConvertNumsFromBinToHex\obj\Debug\06.ConvertNumsFromBinToHex.pdb

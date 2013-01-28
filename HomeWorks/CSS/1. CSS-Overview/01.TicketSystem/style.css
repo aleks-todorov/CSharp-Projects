@@ -1,0 +1,48 @@
+/* CSS Document */
+
+body {
+	background-color: #595959;
+	font-family: Arial;
+}
+
+div { /* Circle */
+	display: inline-block;
+	background: #71B47A;
+	width: 13px;
+	height: 13px;
+	border-radius: 50%;
+}
+
+td {
+	padding: 10px;
+}
+
+.alert {
+	color: #FC0618;
+	font-weight: bold;
+}
+
+.column1 {
+	font-style: italic;
+	color: #E0E1E2;
+}
+
+a {
+	color: #f3f6ac;
+	text-decoration: none;
+}
+
+.actions {
+	color: #909B93;
+	font-weight: bold;
+}
+
+#status {
+	color: #DB6A2E;
+	font-weight: bold;
+}
+
+#ticket {
+	font-size: 20px;
+	color: #E0E1E2;
+}

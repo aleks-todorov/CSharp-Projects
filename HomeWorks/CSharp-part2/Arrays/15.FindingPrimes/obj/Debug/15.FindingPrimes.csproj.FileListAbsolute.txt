@@ -1,0 +1,9 @@
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\15.FindingPrimes\bin\Debug\15.FindingPrimes.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\15.FindingPrimes\obj\Debug\15.FindingPrimes.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\15.FindingPrimes\bin\Debug\15.FindingPrimes.exe
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\15.FindingPrimes\bin\Debug\15.FindingPrimes.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\15.FindingPrimes\obj\Debug\15.FindingPrimes.exe
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\15.FindingPrimes\obj\Debug\15.FindingPrimes.pdb
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\Arrays (1)\15.FindingPrimes\bin\Debug\15.FindingPrimes.exe.config
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\Arrays (1)\15.FindingPrimes\obj\Debug\15.FindingPrimes.exe
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\Arrays (1)\15.FindingPrimes\obj\Debug\15.FindingPrimes.pdb

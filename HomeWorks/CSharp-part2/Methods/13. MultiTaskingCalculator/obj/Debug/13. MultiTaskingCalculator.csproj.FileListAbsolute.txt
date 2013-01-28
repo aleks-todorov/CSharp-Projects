@@ -1,0 +1,8 @@
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\13. MultiTaskingCalculator\bin\Debug\_13.MultiTaskingCalculator.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\13. MultiTaskingCalculator\obj\Debug\13. MultiTaskingCalculator.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\13. MultiTaskingCalculator\bin\Debug\_13.MultiTaskingCalculator.exe
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\13. MultiTaskingCalculator\bin\Debug\_13.MultiTaskingCalculator.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\13. MultiTaskingCalculator\bin\Debug\07.ReversingDigits.exe
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\13. MultiTaskingCalculator\bin\Debug\07.ReversingDigits.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\13. MultiTaskingCalculator\obj\Debug\_13.MultiTaskingCalculator.exe
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\13. MultiTaskingCalculator\obj\Debug\_13.MultiTaskingCalculator.pdb

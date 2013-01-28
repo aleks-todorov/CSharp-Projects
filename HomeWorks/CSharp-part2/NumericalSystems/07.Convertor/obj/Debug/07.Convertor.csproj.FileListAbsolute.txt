@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\07.Convertor\bin\Debug\07.Convertor.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\07.Convertor\obj\Debug\07.Convertor.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\07.Convertor\bin\Debug\07.Convertor.exe
+D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\07.Convertor\bin\Debug\07.Convertor.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\07.Convertor\obj\Debug\07.Convertor.exe
+D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\07.Convertor\obj\Debug\07.Convertor.pdb

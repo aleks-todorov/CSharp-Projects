@@ -1,0 +1,6 @@
+C:\Users\todorale\Google Drive\HomeWorks\C#\Projects\GameOfTrolls\GameOfTrolsNewAlgo\bin\Debug\GameOfTrolsNewAlgo.exe.config
+C:\Users\todorale\Google Drive\HomeWorks\C#\Projects\GameOfTrolls\GameOfTrolsNewAlgo\bin\Debug\GameOfTrolsNewAlgo.exe
+C:\Users\todorale\Google Drive\HomeWorks\C#\Projects\GameOfTrolls\GameOfTrolsNewAlgo\bin\Debug\GameOfTrolsNewAlgo.pdb
+C:\Users\todorale\Google Drive\HomeWorks\C#\Projects\GameOfTrolls\GameOfTrolsNewAlgo\obj\Debug\GameOfTrolsNewAlgo.exe
+C:\Users\todorale\Google Drive\HomeWorks\C#\Projects\GameOfTrolls\GameOfTrolsNewAlgo\obj\Debug\GameOfTrolsNewAlgo.pdb
+C:\Users\todorale\Google Drive\HomeWorks\C#\Projects\GameOfTrolls\GameOfTrolsNewAlgo\obj\Debug\GameOfTrolsNewAlgo.csprojResolveAssemblyReference.cache

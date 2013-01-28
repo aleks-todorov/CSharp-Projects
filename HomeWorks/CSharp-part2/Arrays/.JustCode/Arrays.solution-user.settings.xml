@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="7e4a7ede-81c1-4636-be04-e2f74490d760">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings>
+      <FilePath>
+        <Path>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\Arrays\Program.cs</Path>
+        <ProjectFullName>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\Arrays\Arrays.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>1</Column>
+          <Text>This using directive is not required</Text>
+          <Line>2</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>1</Column>
+          <Text>This using directive is not required</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>1</Column>
+          <Text>This using directive is not required</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\Arrays\Properties\AssemblyInfo.cs</Path>
+        <ProjectFullName>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\Arrays\Arrays.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>1</Column>
+          <Text>This using directive is not required</Text>
+          <Line>2</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\Arrays\Properties\AssemblyInfo.cs</Path>
+        <ProjectFullName>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\Arrays\01.ArrayWithMultipliedElements.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>1</Column>
+          <Text>This using directive is not required</Text>
+          <Line>2</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\10.SequenceWithGivenSum\SequenceWithGivenSum.cs</Path>
+        <ProjectFullName>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\10.SequenceWithGivenSum\10.SequenceWithGivenSum.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>Name does not match the naming convention. Suggested name '0.SequenceWithGivenSum'</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\02.ComparingArrays\ComparingArrays.cs</Path>
+        <ProjectFullName>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\02.ComparingArrays\02.ComparingArrays.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>Name does not match the naming convention. Suggested name '2.ComparingArrays'</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\02.ComparingArrays\Properties\AssemblyInfo.cs</Path>
+        <ProjectFullName>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\02.ComparingArrays\02.ComparingArrays.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>1</Column>
+          <Text>This using directive is not required</Text>
+          <Line>2</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\03.ComparintArraysLexicographically\ComparintArraysLexicographically.cs</Path>
+        <ProjectFullName>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\03.ComparintArraysLexicographically\03.ComparintArraysLexicographically.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>Name does not match the naming convention. Suggested name '3.ComparintArraysLexicographically'</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\03.ComparintArraysLexicographically\Properties\AssemblyInfo.cs</Path>
+        <ProjectFullName>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\03.ComparintArraysLexicographically\03.ComparintArraysLexicographically.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>1</Column>
+          <Text>This using directive is not required</Text>
+          <Line>2</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\04.MaxSequence\MaxSequence.cs</Path>
+        <ProjectFullName>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\04.MaxSequence\04.MaxSequence.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>Name does not match the naming convention. Suggested name '4.MaxSequence'</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\04.MaxSequence\Properties\AssemblyInfo.cs</Path>
+        <ProjectFullName>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\04.MaxSequence\04.MaxSequence.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>1</Column>
+          <Text>This using directive is not required</Text>
+          <Line>2</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\05.MaxIncreasingSequence\MaxIncreasingSequence.cs</Path>
+        <ProjectFullName>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\05.MaxIncreasingSequence\05.MaxIncreasingSequence.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>Name does not match the naming convention. Suggested name '5.MaxIncreasingSequence'</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\05.MaxIncreasingSequence\Properties\AssemblyInfo.cs</Path>
+        <ProjectFullName>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\05.MaxIncreasingSequence\05.MaxIncreasingSequence.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>1</Column>
+          <Text>This using directive is not required</Text>
+          <Line>2</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\06.FindingMaximalSum\FindingMaximalSum.cs</Path>
+        <ProjectFullName>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\06.FindingMaximalSum\06.FindingMaximalSum.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>Name does not match the naming convention. Suggested name '6.FindingMaximalSum'</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\06.FindingMaximalSum\Properties\AssemblyInfo.cs</Path>
+        <ProjectFullName>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\06.FindingMaximalSum\06.FindingMaximalSum.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>1</Column>
+          <Text>This using directive is not required</Text>
+          <Line>2</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\07.SelectionSorting\SelectionSorting.cs</Path>
+        <ProjectFullName>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\07.SelectionSorting\07.SelectionSorting.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>Name does not match the naming convention. Suggested name '7.SelectionSorting'</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\07.SelectionSorting\Properties\AssemblyInfo.cs</Path>
+        <ProjectFullName>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\07.SelectionSorting\07.SelectionSorting.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>1</Column>
+          <Text>This using directive is not required</Text>
+          <Line>2</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\08.SequenceOfMaxSum\SequenceOfMaxSum.cs</Path>
+        <ProjectFullName>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\08.SequenceOfMaxSum\08.SequenceOfMaxSum.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>Name does not match the naming convention. Suggested name '8.SequenceOfMaxSum'</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\08.SequenceOfMaxSum\Properties\AssemblyInfo.cs</Path>
+        <ProjectFullName>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\08.SequenceOfMaxSum\08.SequenceOfMaxSum.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>1</Column>
+          <Text>This using directive is not required</Text>
+          <Line>2</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\09.FindingMostCommonNumber\FindingMostCommonNumber.cs</Path>
+        <ProjectFullName>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\09.FindingMostCommonNumber\09.FindingMostCommonNumber.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>Name does not match the naming convention. Suggested name '9.FindingMostCommonNumber'</Text>
+          <Line>7</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>1</Column>
+          <Text>This using directive is not required</Text>
+          <Line>2</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>1</Column>
+          <Text>This using directive is not required</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>1</Column>
+          <Text>This using directive is not required</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\09.FindingMostCommonNumber\Properties\AssemblyInfo.cs</Path>
+        <ProjectFullName>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\09.FindingMostCommonNumber\09.FindingMostCommonNumber.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>1</Column>
+          <Text>This using directive is not required</Text>
+          <Line>2</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\10.SequenceWithGivenSum\Properties\AssemblyInfo.cs</Path>
+        <ProjectFullName>D:\Google Drive\HomeWorks\C#\Part 2\Arrays\10.SequenceWithGivenSum\10.SequenceWithGivenSum.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>1</Column>
+          <Text>This using directive is not required</Text>
+          <Line>2</Line>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

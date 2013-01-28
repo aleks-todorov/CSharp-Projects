@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\02. FillingSeries\bin\Debug\_02.FillingSeries.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\02. FillingSeries\bin\Debug\_02.FillingSeries.exe
+D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\02. FillingSeries\bin\Debug\_02.FillingSeries.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\02. FillingSeries\obj\Debug\02. FillingSeries.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\02. FillingSeries\obj\Debug\_02.FillingSeries.exe
+D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\02. FillingSeries\obj\Debug\_02.FillingSeries.pdb

@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\02. GeneratingRandomNumbers\obj\Debug\02. GeneratingRandomNumbers.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\02. GeneratingRandomNumbers\bin\Debug\_02.GeneratingRandomNumbers.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\02. GeneratingRandomNumbers\bin\Debug\_02.GeneratingRandomNumbers.exe
+D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\02. GeneratingRandomNumbers\bin\Debug\_02.GeneratingRandomNumbers.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\02. GeneratingRandomNumbers\obj\Debug\_02.GeneratingRandomNumbers.exe
+D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\02. GeneratingRandomNumbers\obj\Debug\_02.GeneratingRandomNumbers.pdb

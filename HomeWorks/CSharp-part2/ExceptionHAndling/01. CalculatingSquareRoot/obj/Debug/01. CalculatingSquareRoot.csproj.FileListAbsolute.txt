@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\01. CalculatingSquareRoot\bin\Debug\_01.CalculatingSquareRoot.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\01. CalculatingSquareRoot\obj\Debug\01. CalculatingSquareRoot.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\01. CalculatingSquareRoot\bin\Debug\_01.CalculatingSquareRoot.exe
+D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\01. CalculatingSquareRoot\bin\Debug\_01.CalculatingSquareRoot.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\01. CalculatingSquareRoot\obj\Debug\_01.CalculatingSquareRoot.exe
+D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\01. CalculatingSquareRoot\obj\Debug\_01.CalculatingSquareRoot.pdb

@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\06.FindingMaximalSum\bin\Debug\06.FindingMaximalSum.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\06.FindingMaximalSum\bin\Debug\06.FindingMaximalSum.exe
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\06.FindingMaximalSum\bin\Debug\06.FindingMaximalSum.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\06.FindingMaximalSum\obj\Debug\06.FindingMaximalSum.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\06.FindingMaximalSum\obj\Debug\06.FindingMaximalSum.exe
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\06.FindingMaximalSum\obj\Debug\06.FindingMaximalSum.pdb

@@ -1,0 +1,12 @@
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\Arrays (1)\20.PrintingAllVariations\bin\Debug\20.PrintingAllVariations.exe.config
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\Arrays (1)\20.PrintingAllVariations\bin\Debug\20.PrintingAllVariations.exe
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\Arrays (1)\20.PrintingAllVariations\bin\Debug\20.PrintingAllVariations.pdb
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\Arrays (1)\20.PrintingAllVariations\obj\Debug\20.PrintingAllVariationsOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\Arrays (1)\20.PrintingAllVariations\obj\Debug\20.PrintingAllVariations.exe
+C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\Arrays (1)\20.PrintingAllVariations\obj\Debug\20.PrintingAllVariations.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\20.PrintingAllVariations\bin\Debug\20.PrintingAllVariations.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\20.PrintingAllVariations\obj\Debug\20.PrintingAllVariations.exe
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\20.PrintingAllVariations\obj\Debug\20.PrintingAllVariations.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\20.PrintingAllVariations\obj\Debug\20.PrintingAllVariationsOfNumbers.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\20.PrintingAllVariations\bin\Debug\20.PrintingAllVariations.exe
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\20.PrintingAllVariations\bin\Debug\20.PrintingAllVariations.pdb

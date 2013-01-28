@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\12.PrintingLettersIndex\bin\Debug\12.PrintingLettersIndex.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\12.PrintingLettersIndex\obj\Debug\12.PrintingLettersIndex.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\12.PrintingLettersIndex\bin\Debug\12.PrintingLettersIndex.exe
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\12.PrintingLettersIndex\bin\Debug\12.PrintingLettersIndex.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\12.PrintingLettersIndex\obj\Debug\12.PrintingLettersIndex.exe
+D:\Google Drive\HomeWorks\C#\Part 2\Arrays\12.PrintingLettersIndex\obj\Debug\12.PrintingLettersIndex.pdb

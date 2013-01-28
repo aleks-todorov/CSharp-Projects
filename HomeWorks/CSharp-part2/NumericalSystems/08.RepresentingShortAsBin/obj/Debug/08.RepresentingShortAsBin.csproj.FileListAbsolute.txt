@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\08.RepresentingShortAsBin\bin\Debug\08.RepresentingShortAsBin.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\08.RepresentingShortAsBin\bin\Debug\08.RepresentingShortAsBin.exe
+D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\08.RepresentingShortAsBin\bin\Debug\08.RepresentingShortAsBin.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\08.RepresentingShortAsBin\obj\Debug\08.RepresentingShortAsBin.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\08.RepresentingShortAsBin\obj\Debug\08.RepresentingShortAsBin.exe
+D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\08.RepresentingShortAsBin\obj\Debug\08.RepresentingShortAsBin.pdb

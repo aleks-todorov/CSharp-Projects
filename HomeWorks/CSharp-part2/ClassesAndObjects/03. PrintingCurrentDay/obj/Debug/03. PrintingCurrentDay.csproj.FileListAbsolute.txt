@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\03. PrintingCurrentDay\bin\Debug\_03.PrintingCurrentDay.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\03. PrintingCurrentDay\bin\Debug\_03.PrintingCurrentDay.exe
+D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\03. PrintingCurrentDay\bin\Debug\_03.PrintingCurrentDay.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\03. PrintingCurrentDay\obj\Debug\_03.PrintingCurrentDay.exe
+D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\03. PrintingCurrentDay\obj\Debug\_03.PrintingCurrentDay.pdb

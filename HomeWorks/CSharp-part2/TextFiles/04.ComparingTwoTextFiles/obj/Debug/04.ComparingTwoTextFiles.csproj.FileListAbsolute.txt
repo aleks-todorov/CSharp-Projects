@@ -1,0 +1,5 @@
+D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\04.ComparingTwoTextFiles\bin\Debug\04.ComparingTwoTextFiles.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\04.ComparingTwoTextFiles\bin\Debug\04.ComparingTwoTextFiles.exe
+D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\04.ComparingTwoTextFiles\bin\Debug\04.ComparingTwoTextFiles.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\04.ComparingTwoTextFiles\obj\Debug\04.ComparingTwoTextFiles.exe
+D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\04.ComparingTwoTextFiles\obj\Debug\04.ComparingTwoTextFiles.pdb

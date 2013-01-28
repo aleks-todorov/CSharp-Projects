@@ -1,0 +1,109 @@
+/**CSS file**/
+
+html, body{
+	margin: 0;
+	padding:0;
+	height: 100%;
+}
+
+div,p,h1{
+	margin: 0;
+	padding: 0;
+}
+
+/**Outer Body**/
+
+.wrapper{
+	margin: 10px auto;
+	height: 470px;
+	width: 355px;
+	background-color: #eee;
+	border-radius: 14px;
+	font-size: 9px;
+	font-family: Verdana,san-serif;
+	color: #181818;
+	overflow: hidden;
+}
+
+.wrapper>div{
+	margin-top:36px;
+}
+
+/**Header**/
+.wrapper h1{
+	line-height: 14px;
+	display: block;
+	margin-left:10px;
+	margin-top: 14px;
+	text-shadow: 1px 1px #fff;
+}
+
+/**Categories(divs)**/
+
+.categories{
+	width: 305px;
+	height: 76px;
+	background-color: #fff;
+	border: 1px solid #b6b6b6;
+	margin-left:12px;
+	padding: 14px;
+	margin-bottom: 30px;
+}
+
+.categories img{
+	float: left;
+	margin-right: 14px;
+	border: 1px solid #666;
+}
+
+.categories p{
+	height: 60px;
+}
+.categories img:after{
+	content: "";
+	display: block;
+	clear: both; 
+	height: 0; 
+}
+
+.buttons {
+	display: inline-block;
+	height: 10px;
+	width: 50px;
+	float: right;
+	text-align: center;
+	padding-top: 3px;
+	padding-bottom: 5px;
+	color: #fff;
+	background: -moz-linear-gradient(left, rgba(138,0,0,1) 0%, rgba(138,0,0,1) 15%, rgba(138,0,0,1) 15%, rgba(206,9,12,1) 16%, rgba(206,9,12,1) 98%, rgba(138,0,0,1) 99%, rgba(138,0,0,1) 100%); /* FF3.6+ */
+	background: -webkit-linear-gradient(left, rgba(138,0,0,1) 0%,rgba(138,0,0,1) 15%,rgba(138,0,0,1) 15%,rgba(206,9,12,1) 16%,rgba(206,9,12,1) 98%,rgba(138,0,0,1) 99%,rgba(138,0,0,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -ms-linear-gradient(left, rgba(138,0,0,1) 0%,rgba(138,0,0,1) 15%,rgba(138,0,0,1) 15%,rgba(206,9,12,1) 16%,rgba(206,9,12,1) 98%,rgba(138,0,0,1) 99%,rgba(138,0,0,1) 100%); /* IE10+ */
+}
+
+.buttons:after{
+	content: "";
+	display: block;
+	clear: both; 
+	height: 0; 
+}
+
+.categories div  + div{
+	width: 64px;
+	margin-right: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

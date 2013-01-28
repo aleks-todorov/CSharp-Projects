@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\10.FindingFactoriel\bin\Debug\10.FindingFactoriel.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\10.FindingFactoriel\bin\Debug\10.FindingFactoriel.exe
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\10.FindingFactoriel\bin\Debug\10.FindingFactoriel.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\10.FindingFactoriel\obj\Debug\10.FindingFactoriel.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\10.FindingFactoriel\obj\Debug\10.FindingFactoriel.exe
+D:\Google Drive\HomeWorks\C#\Part 2\Methods\10.FindingFactoriel\obj\Debug\10.FindingFactoriel.pdb

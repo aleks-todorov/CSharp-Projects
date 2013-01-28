@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Part 2\MultidimentionalArrays\03.LongestSequence\bin\Debug\03.LongestSequence.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\MultidimentionalArrays\03.LongestSequence\obj\Debug\03.LongestSequence.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Part 2\MultidimentionalArrays\03.LongestSequence\bin\Debug\03.LongestSequence.exe
+D:\Google Drive\HomeWorks\C#\Part 2\MultidimentionalArrays\03.LongestSequence\bin\Debug\03.LongestSequence.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\MultidimentionalArrays\03.LongestSequence\obj\Debug\03.LongestSequence.exe
+D:\Google Drive\HomeWorks\C#\Part 2\MultidimentionalArrays\03.LongestSequence\obj\Debug\03.LongestSequence.pdb

@@ -1,0 +1,6 @@
+D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\06.CalculatingSumFromString\bin\Debug\06.CalculatingSumFromString.exe.config
+D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\06.CalculatingSumFromString\obj\Debug\06.CalculatingSumFromString.csprojResolveAssemblyReference.cache
+D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\06.CalculatingSumFromString\bin\Debug\06.CalculatingSumFromString.exe
+D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\06.CalculatingSumFromString\bin\Debug\06.CalculatingSumFromString.pdb
+D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\06.CalculatingSumFromString\obj\Debug\06.CalculatingSumFromString.exe
+D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\06.CalculatingSumFromString\obj\Debug\06.CalculatingSumFromString.pdb

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. CalculatingSquareRoot", "01. CalculatingSquareRoot\01. CalculatingSquareRoot.csproj", "{DB9E8513-645A-4823-9B0B-7C5DEF0158A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. FillingSeries", "02. FillingSeries\02. FillingSeries.csproj", "{F3F968A1-8637-4074-A9F8-DE2296FAE36A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. ReadingFile", "03. ReadingFile\03. ReadingFile.csproj", "{8078C6C3-1744-43A1-A2AF-E591DD95CEEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. DownloadingFiles", "04. DownloadingFiles\04. DownloadingFiles.csproj", "{11D16414-6BCE-413D-BFA3-C58270989E85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB9E8513-645A-4823-9B0B-7C5DEF0158A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9E8513-645A-4823-9B0B-7C5DEF0158A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9E8513-645A-4823-9B0B-7C5DEF0158A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9E8513-645A-4823-9B0B-7C5DEF0158A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F968A1-8637-4074-A9F8-DE2296FAE36A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F968A1-8637-4074-A9F8-DE2296FAE36A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F968A1-8637-4074-A9F8-DE2296FAE36A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F968A1-8637-4074-A9F8-DE2296FAE36A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8078C6C3-1744-43A1-A2AF-E591DD95CEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8078C6C3-1744-43A1-A2AF-E591DD95CEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8078C6C3-1744-43A1-A2AF-E591DD95CEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8078C6C3-1744-43A1-A2AF-E591DD95CEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11D16414-6BCE-413D-BFA3-C58270989E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D16414-6BCE-413D-BFA3-C58270989E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D16414-6BCE-413D-BFA3-C58270989E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D16414-6BCE-413D-BFA3-C58270989E85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
