@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\07.SelectionSorting\bin\Debug\07.SelectionSorting.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\07.SelectionSorting\bin\Debug\07.SelectionSorting.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\07.SelectionSorting\bin\Debug\07.SelectionSorting.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\07.SelectionSorting\obj\Debug\07.SelectionSorting.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\07.SelectionSorting\obj\Debug\07.SelectionSorting.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\07.SelectionSorting\obj\Debug\07.SelectionSorting.csprojResolveAssemblyReference.cache

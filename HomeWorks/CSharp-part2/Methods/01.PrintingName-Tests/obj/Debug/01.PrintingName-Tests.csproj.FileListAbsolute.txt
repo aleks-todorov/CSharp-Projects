@@ -1,7 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\01.PrintingName-Tests\obj\Debug\01.PrintingName-Tests.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\01.PrintingName-Tests\bin\Debug\01.PrintingName-Tests.dll
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\01.PrintingName-Tests\bin\Debug\01.PrintingName-Tests.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\01.PrintingName-Tests\bin\Debug\_01.PrintingName.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\01.PrintingName-Tests\bin\Debug\_01.PrintingName.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\01.PrintingName-Tests\obj\Debug\01.PrintingName-Tests.dll
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\01.PrintingName-Tests\obj\Debug\01.PrintingName-Tests.pdb

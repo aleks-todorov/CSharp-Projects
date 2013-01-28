@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\01. PrintingName\bin\Debug\_01.PrintingName.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\01. PrintingName\obj\Debug\01. PrintingName.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\01. PrintingName\bin\Debug\_01.PrintingName.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\01. PrintingName\bin\Debug\_01.PrintingName.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\01. PrintingName\obj\Debug\_01.PrintingName.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\01. PrintingName\obj\Debug\_01.PrintingName.pdb

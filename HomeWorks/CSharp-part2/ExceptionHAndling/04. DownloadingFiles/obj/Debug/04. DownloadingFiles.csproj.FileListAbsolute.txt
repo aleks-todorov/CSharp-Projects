@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\04. DownloadingFiles\bin\Debug\_04.DownloadingFiles.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\04. DownloadingFiles\bin\Debug\_04.DownloadingFiles.exe
-D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\04. DownloadingFiles\bin\Debug\_04.DownloadingFiles.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\04. DownloadingFiles\obj\Debug\04. DownloadingFiles.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\04. DownloadingFiles\obj\Debug\_04.DownloadingFiles.exe
-D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\04. DownloadingFiles\obj\Debug\_04.DownloadingFiles.pdb

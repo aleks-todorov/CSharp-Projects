@@ -1,5 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\04. CountingOccurenceOfNumberInArray\bin\Debug\_04.CountingOccurenceOfNumberInArray.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\04. CountingOccurenceOfNumberInArray\bin\Debug\_04.CountingOccurenceOfNumberInArray.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\04. CountingOccurenceOfNumberInArray\bin\Debug\_04.CountingOccurenceOfNumberInArray.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\04. CountingOccurenceOfNumberInArray\obj\Debug\_04.CountingOccurenceOfNumberInArray.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\04. CountingOccurenceOfNumberInArray\obj\Debug\_04.CountingOccurenceOfNumberInArray.pdb

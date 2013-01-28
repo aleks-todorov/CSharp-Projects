@@ -1,1 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\06.CheckingDifferenceBetweenArrayElements\bin\Debug\06.CheckingDifferenceBetweenArrayElements.exe.config

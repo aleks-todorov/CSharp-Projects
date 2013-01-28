@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\14. UsingVariableNumberOfArgOfMethod\bin\Debug\_14.UsingVariableNumberOfArgOfMethod.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\14. UsingVariableNumberOfArgOfMethod\obj\Debug\14. UsingVariableNumberOfArgOfMethod.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\14. UsingVariableNumberOfArgOfMethod\bin\Debug\_14.UsingVariableNumberOfArgOfMethod.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\14. UsingVariableNumberOfArgOfMethod\bin\Debug\_14.UsingVariableNumberOfArgOfMethod.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\14. UsingVariableNumberOfArgOfMethod\obj\Debug\_14.UsingVariableNumberOfArgOfMethod.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\14. UsingVariableNumberOfArgOfMethod\obj\Debug\_14.UsingVariableNumberOfArgOfMethod.pdb

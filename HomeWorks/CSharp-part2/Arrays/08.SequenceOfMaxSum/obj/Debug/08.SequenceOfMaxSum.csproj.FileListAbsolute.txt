@@ -1,9 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\08.SequenceOfMaxSum\bin\Debug\08.SequenceOfMaxSum.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\08.SequenceOfMaxSum\bin\Debug\08.SequenceOfMaxSum.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\08.SequenceOfMaxSum\bin\Debug\08.SequenceOfMaxSum.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\08.SequenceOfMaxSum\obj\Debug\08.SequenceOfMaxSum.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\08.SequenceOfMaxSum\obj\Debug\08.SequenceOfMaxSum.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\08.SequenceOfMaxSum\obj\Debug\08.SequenceOfMaxSum.pdb
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\Arrays (1)\08.SequenceOfMaxSum\bin\Debug\08.SequenceOfMaxSum.exe.config
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\Arrays (1)\08.SequenceOfMaxSum\obj\Debug\08.SequenceOfMaxSum.exe
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\Arrays (1)\08.SequenceOfMaxSum\obj\Debug\08.SequenceOfMaxSum.pdb

@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\MultidimentionalArrays\05. SortingStringMatrixByElementLength\bin\Debug\_05.SortingStringMatrixByElementLength.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\MultidimentionalArrays\05. SortingStringMatrixByElementLength\bin\Debug\_05.SortingStringMatrixByElementLength.exe
-D:\Google Drive\HomeWorks\C#\Part 2\MultidimentionalArrays\05. SortingStringMatrixByElementLength\bin\Debug\_05.SortingStringMatrixByElementLength.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\MultidimentionalArrays\05. SortingStringMatrixByElementLength\obj\Debug\05. SortingStringMatrixByElementLength.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 2\MultidimentionalArrays\05. SortingStringMatrixByElementLength\obj\Debug\_05.SortingStringMatrixByElementLength.exe
-D:\Google Drive\HomeWorks\C#\Part 2\MultidimentionalArrays\05. SortingStringMatrixByElementLength\obj\Debug\_05.SortingStringMatrixByElementLength.pdb

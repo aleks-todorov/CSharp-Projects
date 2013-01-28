@@ -1,5 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\06.CheckingDifferenceBetweenArrayElements\bin\Debug\06.CheckingDifferenceBetweenArrayElements.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\06.CheckingDifferenceBetweenArrayElements\bin\Debug\06.CheckingDifferenceBetweenArrayElements.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\06.CheckingDifferenceBetweenArrayElements\bin\Debug\06.CheckingDifferenceBetweenArrayElements.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\06.CheckingDifferenceBetweenArrayElements\obj\Debug\06.CheckingDifferenceBetweenArrayElements.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\06.CheckingDifferenceBetweenArrayElements\obj\Debug\06.CheckingDifferenceBetweenArrayElements.pdb

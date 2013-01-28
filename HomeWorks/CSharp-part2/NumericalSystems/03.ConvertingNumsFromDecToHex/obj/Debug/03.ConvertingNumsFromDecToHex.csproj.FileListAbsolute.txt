@@ -1,5 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\03.ConvertingNumsFromDecToHex\bin\Debug\03.ConvertingNumsFromDecToHex.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\03.ConvertingNumsFromDecToHex\bin\Debug\03.ConvertingNumsFromDecToHex.exe
-D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\03.ConvertingNumsFromDecToHex\bin\Debug\03.ConvertingNumsFromDecToHex.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\03.ConvertingNumsFromDecToHex\obj\Debug\03.ConvertingNumsFromDecToHex.exe
-D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\03.ConvertingNumsFromDecToHex\obj\Debug\03.ConvertingNumsFromDecToHex.pdb

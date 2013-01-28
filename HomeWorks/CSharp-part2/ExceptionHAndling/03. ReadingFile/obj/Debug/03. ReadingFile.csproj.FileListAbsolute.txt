@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\03. ReadingFile\bin\Debug\_03.ReadingFile.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\03. ReadingFile\bin\Debug\_03.ReadingFile.exe
-D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\03. ReadingFile\bin\Debug\_03.ReadingFile.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\03. ReadingFile\obj\Debug\03. ReadingFile.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\03. ReadingFile\obj\Debug\_03.ReadingFile.exe
-D:\Google Drive\HomeWorks\C#\Part 2\ExceptionHAndling\03. ReadingFile\obj\Debug\_03.ReadingFile.pdb

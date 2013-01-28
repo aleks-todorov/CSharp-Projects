@@ -1,5 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\04.MaxSequence\bin\Debug\04.MaxSequence.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\04.MaxSequence\bin\Debug\04.MaxSequence.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\04.MaxSequence\bin\Debug\04.MaxSequence.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\04.MaxSequence\obj\Debug\04.MaxSequence.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\04.MaxSequence\obj\Debug\04.MaxSequence.pdb

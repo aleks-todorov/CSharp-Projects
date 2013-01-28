@@ -1,5 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\08.ReplacingWholeWords\bin\Debug\08.ReplacingWholeWords.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\08.ReplacingWholeWords\bin\Debug\08.ReplacingWholeWords.exe
-D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\08.ReplacingWholeWords\bin\Debug\08.ReplacingWholeWords.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\08.ReplacingWholeWords\obj\Debug\08.ReplacingWholeWords.exe
-D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\08.ReplacingWholeWords\obj\Debug\08.ReplacingWholeWords.pdb

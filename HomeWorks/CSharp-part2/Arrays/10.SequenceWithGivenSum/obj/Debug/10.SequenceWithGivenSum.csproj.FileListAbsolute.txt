@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\10.SequenceWithGivenSum\bin\Debug\10.SequenceWithGivenSum.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\10.SequenceWithGivenSum\bin\Debug\10.SequenceWithGivenSum.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\10.SequenceWithGivenSum\bin\Debug\10.SequenceWithGivenSum.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\10.SequenceWithGivenSum\obj\Debug\10.SequenceWithGivenSum.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\10.SequenceWithGivenSum\obj\Debug\10.SequenceWithGivenSum.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\10.SequenceWithGivenSum\obj\Debug\10.SequenceWithGivenSum.pdb

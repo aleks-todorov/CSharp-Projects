@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\02.ConcatenationOfTwoFiles\bin\Debug\02.ConcatenationOfTwoFiles.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\02.ConcatenationOfTwoFiles\bin\Debug\02.ConcatenationOfTwoFiles.exe
-D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\02.ConcatenationOfTwoFiles\bin\Debug\02.ConcatenationOfTwoFiles.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\02.ConcatenationOfTwoFiles\obj\Debug\02.ConcatenationOfTwoFiles.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\02.ConcatenationOfTwoFiles\obj\Debug\02.ConcatenationOfTwoFiles.exe
-D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\02.ConcatenationOfTwoFiles\obj\Debug\02.ConcatenationOfTwoFiles.pdb

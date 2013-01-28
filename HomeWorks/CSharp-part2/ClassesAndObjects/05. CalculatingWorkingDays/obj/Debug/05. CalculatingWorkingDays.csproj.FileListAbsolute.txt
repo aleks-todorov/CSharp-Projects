@@ -1,1 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\05. CalculatingWorkingDays\bin\Debug\_05.CalculatingWorkingDays.exe.config

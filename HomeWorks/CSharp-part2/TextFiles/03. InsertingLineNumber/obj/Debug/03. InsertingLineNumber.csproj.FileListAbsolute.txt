@@ -1,5 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\03. InsertingLineNumber\bin\Debug\_03.InsertingLineNumber.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\03. InsertingLineNumber\bin\Debug\_03.InsertingLineNumber.exe
-D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\03. InsertingLineNumber\bin\Debug\_03.InsertingLineNumber.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\03. InsertingLineNumber\obj\Debug\_03.InsertingLineNumber.exe
-D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\03. InsertingLineNumber\obj\Debug\_03.InsertingLineNumber.pdb

@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\02.ObtainingMaxNumber\obj\Debug\02.ObtainingMaxNumber.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\02.ObtainingMaxNumber\bin\Debug\02.ObtainingMaxNumber.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\02.ObtainingMaxNumber\bin\Debug\02.ObtainingMaxNumber.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\02.ObtainingMaxNumber\bin\Debug\02.ObtainingMaxNumber.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\02.ObtainingMaxNumber\obj\Debug\02.ObtainingMaxNumber.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\02.ObtainingMaxNumber\obj\Debug\02.ObtainingMaxNumber.pdb

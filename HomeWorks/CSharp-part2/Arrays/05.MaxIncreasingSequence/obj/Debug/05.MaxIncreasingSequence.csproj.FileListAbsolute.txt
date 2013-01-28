@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\05.MaxIncreasingSequence\bin\Debug\05.MaxIncreasingSequence.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\05.MaxIncreasingSequence\obj\Debug\05.MaxIncreasingSequence.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\05.MaxIncreasingSequence\bin\Debug\05.MaxIncreasingSequence.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\05.MaxIncreasingSequence\bin\Debug\05.MaxIncreasingSequence.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\05.MaxIncreasingSequence\obj\Debug\05.MaxIncreasingSequence.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\05.MaxIncreasingSequence\obj\Debug\05.MaxIncreasingSequence.pdb

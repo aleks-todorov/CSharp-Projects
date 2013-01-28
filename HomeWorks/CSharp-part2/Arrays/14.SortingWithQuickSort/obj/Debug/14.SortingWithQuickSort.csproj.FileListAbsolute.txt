@@ -1,9 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\14.SortingWithQuickSort\bin\Debug\14.SortingWithQuickSort.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\14.SortingWithQuickSort\bin\Debug\14.SortingWithQuickSort.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\14.SortingWithQuickSort\bin\Debug\14.SortingWithQuickSort.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\14.SortingWithQuickSort\obj\Debug\14.SortingWithQuickSort.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\14.SortingWithQuickSort\obj\Debug\14.SortingWithQuickSort.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\14.SortingWithQuickSort\obj\Debug\14.SortingWithQuickSort.pdb
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\Arrays (1)\14.SortingWithQuickSort\bin\Debug\14.SortingWithQuickSort.exe.config
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\Arrays (1)\14.SortingWithQuickSort\obj\Debug\14.SortingWithQuickSort.exe
-C:\Users\todorale\Google Drive\HomeWorks\C#\Part 2\Arrays (1)\14.SortingWithQuickSort\obj\Debug\14.SortingWithQuickSort.pdb

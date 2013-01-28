@@ -1,7 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\04.CountingOccurenceOfNumberInArray-Tests\obj\Debug\04.CountingOccurenceOfNumberInArray-Tests.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\04.CountingOccurenceOfNumberInArray-Tests\bin\Debug\04.CountingOccurenceOfNumberInArray-Tests.dll
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\04.CountingOccurenceOfNumberInArray-Tests\bin\Debug\04.CountingOccurenceOfNumberInArray-Tests.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\04.CountingOccurenceOfNumberInArray-Tests\bin\Debug\_04.CountingOccurenceOfNumberInArray.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\04.CountingOccurenceOfNumberInArray-Tests\bin\Debug\_04.CountingOccurenceOfNumberInArray.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\04.CountingOccurenceOfNumberInArray-Tests\obj\Debug\04.CountingOccurenceOfNumberInArray-Tests.dll
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\04.CountingOccurenceOfNumberInArray-Tests\obj\Debug\04.CountingOccurenceOfNumberInArray-Tests.pdb

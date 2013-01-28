@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\02.ConvertNumsFromBinToDec\obj\Debug\02.ConvertNumsFromBinToDec.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\02.ConvertNumsFromBinToDec\bin\Debug\02.ConvertNumsFromBinToDec.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\02.ConvertNumsFromBinToDec\bin\Debug\02.ConvertNumsFromBinToDec.exe
-D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\02.ConvertNumsFromBinToDec\bin\Debug\02.ConvertNumsFromBinToDec.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\02.ConvertNumsFromBinToDec\obj\Debug\02.ConvertNumsFromBinToDec.exe
-D:\Google Drive\HomeWorks\C#\Part 2\NumericalSystems\02.ConvertNumsFromBinToDec\obj\Debug\02.ConvertNumsFromBinToDec.pdb

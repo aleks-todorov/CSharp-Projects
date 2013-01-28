@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\04.CalculatingTriangleSurface\bin\Debug\04.CalculatingTriangleSurface.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\04.CalculatingTriangleSurface\obj\Debug\04.CalculatingTriangleSurface.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\04.CalculatingTriangleSurface\bin\Debug\04.CalculatingTriangleSurface.exe
-D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\04.CalculatingTriangleSurface\bin\Debug\04.CalculatingTriangleSurface.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\04.CalculatingTriangleSurface\obj\Debug\04.CalculatingTriangleSurface.exe
-D:\Google Drive\HomeWorks\C#\Part 2\ClassesAndObjects\04.CalculatingTriangleSurface\obj\Debug\04.CalculatingTriangleSurface.pdb

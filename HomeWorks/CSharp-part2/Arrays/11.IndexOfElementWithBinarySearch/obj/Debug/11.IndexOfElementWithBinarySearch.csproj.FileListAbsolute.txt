@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\11.IndexOfElementWithBinarySearch\bin\Debug\11.IndexOfElementWithBinarySearch.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\11.IndexOfElementWithBinarySearch\bin\Debug\11.IndexOfElementWithBinarySearch.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\11.IndexOfElementWithBinarySearch\bin\Debug\11.IndexOfElementWithBinarySearch.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\11.IndexOfElementWithBinarySearch\obj\Debug\11.IndexOfElementWithBinarySearch.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\11.IndexOfElementWithBinarySearch\obj\Debug\11.IndexOfElementWithBinarySearch.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Arrays\11.IndexOfElementWithBinarySearch\obj\Debug\11.IndexOfElementWithBinarySearch.pdb

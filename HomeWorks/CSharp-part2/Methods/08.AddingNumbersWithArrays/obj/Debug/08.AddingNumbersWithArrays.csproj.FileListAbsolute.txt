@@ -1,6 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\08.AddingNumbersWithArrays\bin\Debug\08.AddingNumbersWithArrays.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\08.AddingNumbersWithArrays\obj\Debug\08.AddingNumbersWithArrays.csprojResolveAssemblyReference.cache
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\08.AddingNumbersWithArrays\bin\Debug\08.AddingNumbersWithArrays.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\08.AddingNumbersWithArrays\bin\Debug\08.AddingNumbersWithArrays.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\08.AddingNumbersWithArrays\obj\Debug\08.AddingNumbersWithArrays.exe
-D:\Google Drive\HomeWorks\C#\Part 2\Methods\08.AddingNumbersWithArrays\obj\Debug\08.AddingNumbersWithArrays.pdb

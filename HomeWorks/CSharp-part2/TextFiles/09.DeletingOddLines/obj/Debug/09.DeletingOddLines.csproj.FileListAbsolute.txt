@@ -1,5 +1,0 @@
-D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\09.DeletingOddLines\bin\Debug\09.DeletingOddLines.exe.config
-D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\09.DeletingOddLines\bin\Debug\09.DeletingOddLines.exe
-D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\09.DeletingOddLines\bin\Debug\09.DeletingOddLines.pdb
-D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\09.DeletingOddLines\obj\Debug\09.DeletingOddLines.exe
-D:\Google Drive\HomeWorks\C#\Part 2\TextFiles\09.DeletingOddLines\obj\Debug\09.DeletingOddLines.pdb
