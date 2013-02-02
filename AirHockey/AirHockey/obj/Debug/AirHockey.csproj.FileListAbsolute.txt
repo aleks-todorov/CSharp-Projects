@@ -3,3 +3,8 @@ C:\Google Drive\HomeWorks\C#\Projects\AirHockey\AirHockey\bin\Debug\AirHockey.ex
 C:\Google Drive\HomeWorks\C#\Projects\AirHockey\AirHockey\bin\Debug\AirHockey.pdb
 C:\Google Drive\HomeWorks\C#\Projects\AirHockey\AirHockey\obj\Debug\AirHockey.exe
 C:\Google Drive\HomeWorks\C#\Projects\AirHockey\AirHockey\obj\Debug\AirHockey.pdb
+D:\Git\Projects\AirHockey\AirHockey\bin\Debug\AirHockey.exe.config
+D:\Git\Projects\AirHockey\AirHockey\obj\Debug\AirHockey.exe
+D:\Git\Projects\AirHockey\AirHockey\obj\Debug\AirHockey.pdb
+D:\Git\Projects\AirHockey\AirHockey\bin\Debug\AirHockey.exe
+D:\Git\Projects\AirHockey\AirHockey\bin\Debug\AirHockey.pdb
